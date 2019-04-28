@@ -1,0 +1,352 @@
+,Unnamed: 0,Store name,Store URL,Area,Postcode,Phone,Postcode district,Constituency Code,Index of Multiple Deprivation,Latitude,Longitude,first_party
+0,0,Abergavenny,https://www.waitrose.com//content/waitrose/en/bf_home/bf/683.html,Gwent,NP79LL,0187385118,NP7,W07000054,1042.0,51.818294,-3.028245,Con
+1,1,Abingdon,https://www.waitrose.com//content/waitrose/en/bf_home/bf/211.html,Oxfordshire,OX143HL,0123553500,OX14,E14000874,23835.0,51.672083,-1.2797049999999999,LD
+2,2,Addlestone,https://www.waitrose.com//bf_home/bf/542.html,Surrey,KT152GL,0193282001,KT15,E14000907,11697.0,51.370886,-0.49150600000000005,Con
+4,4,Alcester,https://www.waitrose.com//content/waitrose/en/bf_home/bf/474.html,Warwickshire,B495DA,0178976674,B49,E14000977,26731.0,52.216453,-1.8702439999999998,Con
+5,5,Alderley Edge,http://www.waitrose.com/content/waitrose/en/bf_home/bf/560.html,AlderleyEdge,SK97JX,0162559074,SK9,E14000987,25898.0,53.302691,-2.236853,Con
+6,6,Allington Park,https://www.waitrose.com//content/waitrose/en/bf_home/bf/137.html,Kent,ME160PX,0162275227,ME16,E14000804,30506.0,51.286182000000004,0.497457,Con
+7,7,Alton,http://www.waitrose.com/content/waitrose/en/bf_home/bf/329.html,Hampshire,GU342PZ,0142054106,GU34,E14000680,21251.0,51.152703,-0.968082,Con
+8,8,Altrincham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/494.html,Cheshire,WA145ZL,0161929780,WA14,E14000532,28820.0,53.405692,-2.364468,Con
+9,9,Amersham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/578.html,Buckinghamshire,HP65DR,0149443343,HP6,E14000631,32488.0,51.67757,-0.6063069999999999,Con
+10,10,Ampthill,https://www.waitrose.com//content/waitrose/en/bf_home/bf/722.html,Bedfordshire,MK452LU,0152540227,MK45,E14000813,31617.0,52.032506,-0.493385,Con
+11,11,Andover,https://www.waitrose.com//content/waitrose/en/bf_home/bf/168.html,Hampshire,SP101LY,0126435551,SP10,E14000857,13014.0,51.208503,-1.4812290000000001,Con
+12,12,Ashbourne,https://www.waitrose.com//content/waitrose/en/bf_home/bf/316.html,Derbyshire,DE61GF,0133534894,DE6,E14000664,15219.0,53.016636,-1.733094,Con
+13,13,Ashford,https://www.waitrose.com//content/waitrose/en/bf_home/bf/705.html,Kent,TN233RT,0123366008,TN23,E14000536,22066.0,51.155224,0.8564620000000001,Con
+14,14,Aylesbury,http://www.waitrose.com/content/waitrose/en/bf_home/bf/625.html,Buckinghamshire,HP201AL,0129643693,HP20,E14000538,15569.0,51.814595000000004,-0.807729,Con
+15,15,Bagshot ,https://www.waitrose.com//bf_home/bf/514.html,Surrey,GU195DG,0127647258,GU19,E14000983,26763.0,51.355502,-0.6994130000000001,Con
+16,16,Bagshot Road ,https://www.waitrose.com//bf_home/bf/738.html,Berkshire,RG129SE,0134486029,RG12,E14000586,13620.0,51.405228,-0.7479180000000001,Con
+17,17,Balham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/719.html,London,SW129BN,0208675031,SW12,E14000549,17026.0,51.444994,-0.151792,Lab
+18,18,Banbury,https://www.waitrose.com//bf_home/bf/874.html,Oxfordshire,OX162FW,0129525868,OX16,E14000539,15584.0,52.065689,-1.340086,Con
+19,19,Banstead,https://www.waitrose.com//content/waitrose/en/bf_home/bf/202.html,Surrey,SM72NB,0173737355,SM7,E14000893,31426.0,51.322955,-0.198596,Con
+20,20,Barbican,https://www.waitrose.com//content/waitrose/en/bf_home/bf/732.html,London,EC1Y8NX,0207256644,EC1Y,E14000764,9908.0,51.521846000000004,-0.092363,Lab
+21,21,Barnet,https://www.waitrose.com//content/waitrose/en/bf_home/bf/191.html,Hertfordshire,EN55XY,0208449179,EN5,E14000636,24732.0,51.655374,-0.203261,Con
+22,22,Barry,https://www.waitrose.com//content/waitrose/en/bf_home/bf/688.html,SouthGlamorgan,CF632PE,0144673717,CF63,W07000078,575.0,51.414386,-3.239174,Con
+23,23,Basingstoke,https://www.waitrose.com//bf_home/bf/582.html,Hampshire,RG214YY,0125635082,RG21,E14000545,9880.0,51.268574,-1.080694,Con
+24,24,Bath,https://www.waitrose.com//content/waitrose/en/bf_home/bf/193.html,NESomerset,BA15AL,0122544255,BA1,E14000547,8999.0,51.383386,-2.358584,LD
+25,25,Battersea,https://www.waitrose.com//bf_home/bf/737.html,Battersea,SW84LT,0207720987,SW8,E14000549,8082.0,51.477121000000004,-0.148161,Lab
+26,26,Battersea - Nine Elms,https://www.waitrose.com//bf_home/bf/598.html,London,SW117DN,0207622245,SW11,E14000549,9441.0,51.482165,-0.134422,Lab
+27,27,Bayswater,https://www.waitrose.com//bf_home/bf/756.html,London,W26ES,0207243571,W2,E14001036,12051.0,51.517146000000004,-0.18770599999999998,Lab
+28,28,Beaconsfield,https://www.waitrose.com//content/waitrose/en/bf_home/bf/177.html,Buckinghamshire,HP92PW,0149467681,HP9,E14000550,27691.0,51.61222,-0.646524,Con
+29,29,Beckenham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/212.html,Kent,BR31SD,0208663489,BR3,E14000551,28289.0,51.412377,-0.023902,Con
+30,30,Bedford,http://www.waitrose.com/content/waitrose/en/bf_home/bf/725.html,Bedford,MK410GX,0123427368,MK41,E14000552,22680.0,52.144362,-0.420151,Lab
+31,31,Belgravia,https://www.waitrose.com//content/waitrose/en/bf_home/bf/665.html,London,SW1X8GG,0207235495,SW1X,E14000639,19460.0,51.498996999999996,-0.1571,Con
+32,32,Berkhamsted,http://www.waitrose.com/content/waitrose/en/bf_home/bf/223.html,Hertfordshire,HP41HS,0144287750,HP4,E14000951,29552.0,51.761858000000004,-0.5666180000000001,Con
+33,33,Biggin Hill,https://www.waitrose.com//content/waitrose/en/bf_home/bf/240.html,Kent,TN163BB,0195957507,TN16,E14000872,21472.0,51.308347999999995,0.038488999999999995,Con
+34,34,Billericay,https://www.waitrose.com//content/waitrose/en/bf_home/bf/229.html,Essex,CM129BY,0127763633,CM12,E14000544,31750.0,51.623979,0.416548,Con
+35,35,Birmingham-Colmore Row,http://www.waitrose.com/content/waitrose/en/bf_home/bf/742.html,Birmingham,B32BJ,0121200324,B3,E14000564,9801.0,52.482611999999996,-1.898378,Lab
+36,36,Bishop's Stortford,https://www.waitrose.com//content/waitrose/en/bf_home/bf/101.html,Hertfordshire,CM232BA,0127946655,CM23,E14000744,21299.0,51.872978,0.159865,Con
+37,37,Blaby,https://www.waitrose.com//content/waitrose/en/bf_home/bf/141.html,Leicestershire,LE84DJ,0116277515,LE8,E14000940,20819.0,52.574867000000005,-1.163808,Con
+38,38,Bloomsbury,https://www.waitrose.com//content/waitrose/en/bf_home/bf/207.html,London,WC1N1AF,0207713609,WC1N,E14000750,5767.0,51.524273,-0.123529,Lab
+39,39,Bluewater - JL Foodhall,https://www.waitrose.com//content/waitrose/en/bf_home/bf/493.html,Kent,DA99SA,0132262412,DA9,E14000659,18410.0,51.440441,0.271536,Con
+40,40,Brackley,https://www.waitrose.com//content/waitrose/en/bf_home/bf/797.html,Northamptonshire,NN136BE,0128070333,NN13,E14000942,14989.0,52.026807,-1.150962,Con
+41,41,Bracknell,http://www.waitrose.com/content/waitrose/en/bf_home/bf/706.html,Berkshire,RG121RQ,0134486237,RG12,E14000586,8461.0,51.418293,-0.752195,Con
+42,42,Brent Cross,https://www.waitrose.com//content/waitrose/en/bf_home/bf/119.html,London,NW43FQ,0208203971,NW4,E14000741,11581.0,51.576415999999995,-0.22379200000000002,Con
+43,43,Bridport,https://www.waitrose.com//content/waitrose/en/bf_home/bf/475.html,Dorset,DT63QP,0130842225,DT6,E14001031,14420.0,50.733657,-2.759893,Con
+44,44,Brighton,https://www.waitrose.com//content/waitrose/en/bf_home/bf/114.html,EastSussex,BN12LA,0127332654,BN1,E14000598,6218.0,50.824953,-0.151267,Green
+45,45,Brighton Road - Horley,https://www.waitrose.com//bf_home/bf/802.html,Surrey,RH67JU,0129378564,RH6,E14000681,21824.0,51.180569,-0.163675,Con
+46,46,Bromley,https://www.waitrose.com//content/waitrose/en/bf_home/bf/158.html,Kent,BR15AJ,0208460765,BR1,E14000604,7388.0,51.421089,0.021064,Con
+47,47,Bromley South,https://www.waitrose.com//content/waitrose/en/bf_home/bf/224.html,Kent,BR29HD,0208460775,BR2,E14000604,20532.0,51.398998999999996,0.018149000000000002,Con
+48,48,Bromsgrove,https://www.waitrose.com//bf_home/bf/877.html,BROMSGROVE,B617JH,0152787618,B61,E14000605,13664.0,52.332687,-2.064482,Con
+49,49,Broxbourne,https://www.waitrose.com//bf_home/bf/575.html,Hertfordshire,EN106PY,0199244316,EN10,E14000606,17107.0,51.738504999999996,-0.02222,Con
+50,50,Buckhurst Hill,https://www.waitrose.com//content/waitrose/en/bf_home/bf/102.html,Essex,IG95EP,0208506133,IG9,E14000693,28907.0,51.625446999999994,0.044986,Con
+51,51,Buckingham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/769.html,Buckinghamshire,MK181RS,0128081347,MK18,E14000608,19839.0,52.000708,-0.985353,Spk
+52,52,Burgess Hill,https://www.waitrose.com//content/waitrose/en/bf_home/bf/123.html,WestSussex,RH159NP,0144423009,RH15,E14000817,20768.0,50.955078,-0.131244,Con
+53,53,Burgh Heath,https://www.waitrose.com//bf_home/bf/567.html,Surrey,KT206BX,0173736257,KT20,E14000893,25338.0,51.303979999999996,-0.21971100000000002,Con
+54,54,Burnt Common,https://www.waitrose.com//bf_home/bf/571.html,Surrey,GU237JY,0148322346,GU23,E14000824,31093.0,51.282099,-0.512846,Con
+55,55,Bury St Edmunds,https://www.waitrose.com//content/waitrose/en/bf_home/bf/140.html,Suffolk,IP333DH,0128472522,IP33,E14000613,19158.0,52.243415999999996,0.707987,Con
+56,56,Buxton,https://www.waitrose.com//content/waitrose/en/bf_home/bf/748.html,Derbyshire,SK176DF,0129876746,SK17,E14000748,10412.0,53.259595,-1.911921,Lab
+57,57,Byres Road,https://www.waitrose.com//content/waitrose/en/bf_home/bf/308.html,Glasgow,G128AU,0141337331,G12,S14000031,5877.0,55.877402000000004,-4.291378,SNP
+58,58,Caldicot,https://www.waitrose.com//content/waitrose/en/bf_home/bf/476.html,Monmouthshire,NP264UX,0129142101,NP26,W07000055,765.0,51.590264000000005,-2.752307,Lab
+59,59,Cambridge,https://www.waitrose.com//content/waitrose/en/bf_home/bf/651.html,Cambridgeshire,CB29FT,0122384577,CB2,E14000617,21114.0,52.169771999999995,0.10781900000000001,Lab
+60,60,Cambridge- Fitzroy Street,http://www.waitrose.com/content/waitrose/en/bf_home/bf/552.html,Cambridge,CB11EW,0122330112,CB1,E14000617,26205.0,52.206608,0.13059400000000002,Lab
+61,61,Camden,https://www.waitrose.com//bf_home/bf/536.html,London,NW17JR,0207267938,NW1,E14000750,5313.0,51.53732,-0.141987,Lab
+62,62,Canary Wharf,https://www.waitrose.com//content/waitrose/en/bf_home/bf/664.html,London,E145EW,0207719030,E14,E14000882,13596.0,51.504577000000005,-0.016225999999999997,Lab
+63,63,Canterbury,http://www.waitrose.com/content/waitrose/en/bf_home/bf/533.html,KENT,CT11UL,0122778580,CT1,E14000619,24571.0,51.276294,1.086042,Lab
+64,64,Caterham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/178.html,Surrey,CR36LB,0188334617,CR3,E14000681,24143.0,51.281935,-0.077885,Con
+65,65,Caversham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/184.html,Berkshire,RG48AY,0118948291,RG4,E14000889,15283.0,51.467252,-0.9736450000000001,Lab
+66,66,Chandlers Ford,https://www.waitrose.com//content/waitrose/en/bf_home/bf/668.html,Hampshire,SO532LG,0238026023,SO53,E14001041,23889.0,50.986891,-1.373075,Con
+67,67,Cheadle Hulme,https://www.waitrose.com//content/waitrose/en/bf_home/bf/710.html,Cheshire,SK85AE,0161486170,SK8,E14000627,30432.0,53.377201,-2.190112,Con
+68,68,Cheam,https://www.waitrose.com//content/waitrose/en/bf_home/bf/559.html,Surrey,SM38BD,0208643843,SM3,E14000984,28510.0,51.358936,-0.21637800000000001,Con
+69,69,Cheltenham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/663.html,Gloucestershire,GL503QW,0124224142,GL50,E14000630,18890.0,51.901938,-2.0838240000000003,Con
+70,70,Chesham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/192.html,Buckinghamshire,HP51DR,0149479171,HP5,E14000631,19868.0,51.707002,-0.6110180000000001,Con
+71,71,Chester,https://www.waitrose.com//bf_home/bf/842.html,Cheshire,CH35AF,0124434290,CH3,E14000640,15531.0,53.192461,-2.8790139999999997,Lab
+72,72,Chichester,https://www.waitrose.com//content/waitrose/en/bf_home/bf/208.html,WestSussex,PO191RD,0124353751,PO19,E14000633,20344.0,50.832334,-0.7855850000000001,Con
+73,73,Chippenham,http://www.waitrose.com/content/waitrose/en/bf_home/bf/523.html,Wiltshire,SN153WL,0124946298,SN15,E14000635,8305.0,51.458394,-2.116938,Con
+74,74,Chipping Sodbury,https://www.waitrose.com//bf_home/bf/751.html,SthGloucestershire,BS376AU,0145432651,BS37,E14000994,28478.0,51.540449,-2.396312,Con
+75,75,Chiswick,https://www.waitrose.com//content/waitrose/en/bf_home/bf/760.html,London,W45TA,0208994605,W4,E14000593,20515.0,51.492629,-0.262436,Lab
+76,76,Christchurch,https://www.waitrose.com//content/waitrose/en/bf_home/bf/754.html,Dorset,BH231QD,0120249668,BH23,E14000638,16228.0,50.736503000000006,-1.779396,Con
+77,77,Cirencester,https://www.waitrose.com//content/waitrose/en/bf_home/bf/220.html,Gloucestershire,GL71SZ,0128564373,GL7,E14000991,18597.0,51.713415999999995,-1.9712509999999999,Con
+78,78,Clapham Common,http://www.waitrose.com/content/waitrose/en/bf_home/bf/616.html,London,SW40HY,0203202004,SW4,E14001008,21607.0,51.462044,-0.139259,Lab
+79,79,Clapham Junction,https://www.waitrose.com//content/waitrose/en/bf_home/bf/767.html,London,SW111PW,0207978740,SW11,E14000549,11738.0,51.462773999999996,-0.16792100000000001,Lab
+80,80,Clerkenwell,https://www.waitrose.com//content/waitrose/en/bf_home/bf/492.html,London,EC1V4DE,0207253197,EC1V,E14000764,15583.0,51.524254,-0.10278599999999999,Lab
+81,81,Clifton,https://www.waitrose.com//content/waitrose/en/bf_home/bf/834.html,Avon,BS81QS,0117930043,BS8,E14000602,22105.0,51.457131,-2.6084490000000002,Lab
+82,82,Cobham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/176.html,Surrey,KT111AF,0193286535,KT11,E14000697,25138.0,51.330107,-0.413945,Con
+83,83,Colchester,https://www.waitrose.com//content/waitrose/en/bf_home/bf/455.html,Essex,CO43EQ,0120686123,CO4,E14000644,9230.0,51.893701,0.921191,Con
+84,84,Comely Bank,https://www.waitrose.com//content/waitrose/en/bf_home/bf/750.html,Scotland,EH41AW,0131332631,EH4,S14000023,6751.0,55.959311,-3.219402,SNP
+85,85,Coulsdon,https://www.waitrose.com//content/waitrose/en/bf_home/bf/129.html,Surrey,CR52NB,0208668665,CR5,E14000656,12009.0,51.322289000000005,-0.136553,Con
+86,86,Cowbridge,http://www.waitrose.com/content/waitrose/en/bf_home/bf/735.html,ValeofGlamorgan,CF717AG,0144677492,CF71,W07000078,1649.0,51.461702,-3.4478730000000004,Con
+87,87,Crewkerne,https://www.waitrose.com//content/waitrose/en/bf_home/bf/458.html,Somerset,TA188DA,014607247,TA18,E14001060,9978.0,50.882896,-2.7943599999999997,Con
+88,88,Crouch End,https://www.waitrose.com//content/waitrose/en/bf_home/bf/835.html,London,N88DU,0208348124,N8,E14000752,17602.0,51.578992,-0.12411900000000001,Lab
+89,89,Crowborough,https://www.waitrose.com//content/waitrose/en/bf_home/bf/110.html,EastSussex,TN61DL,0189266286,TN6,E14001023,21246.0,51.058455,0.161938,Con
+90,90,Croydon,https://www.waitrose.com//content/waitrose/en/bf_home/bf/477.html,Surrey,CR01LG,0208688954,CR0,E14000654,8371.0,51.374536,-0.096194,Lab
+91,91,Daventry,https://www.waitrose.com//content/waitrose/en/bf_home/bf/156.html,Northamptonshire,NN114DR,0132770593,NN11,E14000660,6541.0,52.257225,-1.161736,Con
+92,92,"Dibden (Hythe), Hampshire",https://www.waitrose.com//content/waitrose/en/bf_home/bf/118.html,Southampton,SO456AG,0238084471,SO45,E14000827,19480.0,50.870132,-1.3984459999999999,Con
+93,93,Dorchester,https://www.waitrose.com//content/waitrose/en/bf_home/bf/120.html,Dorset,DT11BN,0130526842,DT1,E14001031,12830.0,50.714339,-2.436197,Con
+94,94,Dorking,https://www.waitrose.com//content/waitrose/en/bf_home/bf/527.html,Surrey,RH42HQ,0130688117,RH4,E14000824,24937.0,51.231297,-0.33371,Con
+95,95,Droitwich,https://www.waitrose.com//content/waitrose/en/bf_home/bf/672.html,Worcestershire,WR98LB,0190579839,WR9,E14000818,10665.0,52.268784000000004,-2.1456020000000002,Con
+96,96,Ealing,https://www.waitrose.com//bf_home/bf/586.html,London,W53HJ,0208991956,W5,E14000674,27898.0,51.516077,-0.29084499999999996,Lab
+97,97,East Cowes,https://www.waitrose.com//content/waitrose/en/bf_home/bf/313.html,IsleofWight,PO326SP,0198328241,PO32,E14000762,16069.0,50.758164,-1.288424,Con
+98,98,East Grinstead,https://www.waitrose.com//content/waitrose/en/bf_home/bf/741.html,EastGrinstead,RH194YZ,0134232372,RH19,E14000817,28745.0,51.123635,-0.010925,Con
+99,99,East Putney,https://www.waitrose.com//bf_home/bf/820.html,Putney,SW152TD,0208785168,SW15,E14000887,24422.0,51.459392,-0.211554,Con
+100,100,East Sheen,https://www.waitrose.com//content/waitrose/en/bf_home/bf/149.html,London,SW147JG,0208878479,SW14,E14000896,25658.0,51.464366999999996,-0.269248,Con
+101,101,Eastbourne,https://www.waitrose.com//content/waitrose/en/bf_home/bf/757.html,EastSussex,BN211HR,0132364450,BN21,E14000684,22161.0,50.772774,0.267739,LD
+102,102,Edenbridge,https://www.waitrose.com//bf_home/bf/556.html,Kent,TN85LN,0173286704,TN8,E14000997,11693.0,51.195339000000004,0.06428400000000001,Con
+103,103,Edgware Road,https://www.waitrose.com//content/waitrose/en/bf_home/bf/768.html,London,W22DS,0207725975,W2,E14000639,9897.0,51.517727,-0.166246,Con
+104,104,Egham ,https://www.waitrose.com//content/waitrose/en/bf_home/bf/519.html,Egham,TW209HZ,0178447983,TW20,E14000907,25395.0,51.431742,-0.546661,Con
+105,105,Eldon Square,https://www.waitrose.com//content/waitrose/en/bf_home/bf/461.html,NewcastleuponTyne,NE17JD,0191233281,NE1,E14000831,16382.0,54.975017,-1.6152799999999998,Lab
+106,106,Ely,https://www.waitrose.com//content/waitrose/en/bf_home/bf/205.html,Cambridgeshire,CB74QJ,0135366880,CB7,E14000937,20557.0,52.400894,0.268705,Con
+107,107,Enfield,https://www.waitrose.com//content/waitrose/en/bf_home/bf/179.html,Mddlesex,EN26SN,0208366687,EN2,E14000692,12538.0,51.651256,-0.083494,Lab
+108,108,Enfield Chase,http://www.waitrose.com/content/waitrose/en/bf_home/bf/521.html,London,EN27AS,0208366652,EN2,E14000692,21125.0,51.653416,-0.09248200000000001,Lab
+109,109,Epsom,https://www.waitrose.com//content/waitrose/en/bf_home/bf/104.html,Surrey,KT185DB,0137272566,KT18,E14000694,16761.0,51.332158,-0.26862199999999997,Con
+110,110,Esher,https://www.waitrose.com//content/waitrose/en/bf_home/bf/121.html,Surrey,KT109QE,0137246882,KT10,E14000697,32078.0,51.368120000000005,-0.366962,Con
+111,111,Exeter,http://www.waitrose.com/content/waitrose/en/bf_home/bf/702.html,Devon,EX12ED,0139227674,EX1,E14000698,2584.0,50.724387,-3.5140239999999996,Lab
+112,112,Farringdon,https://www.waitrose.com//bf_home/bf/871.html,Oxfordshire,SN77GQ,0136724260,SN7,E14001015,24759.0,51.650249,-1.575547,Con
+113,113,Farnham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/692.html,Surrey,GU97HD,0125271930,GU9,E14000953,24877.0,51.215509999999995,-0.8021689999999999,Con
+114,114,Finchley,https://www.waitrose.com//content/waitrose/en/bf_home/bf/215.html,London,N128NR,0208343730,N12,E14000703,16320.0,51.611323999999996,-0.179779,Con
+115,115,Finchley Central,https://www.waitrose.com//bf_home/bf/876.html,London,N32LN,0208346197,N3,E14000703,18830.0,51.600227000000004,-0.194666,Con
+116,116,Fleet,http://www.waitrose.com/content/waitrose/en/bf_home/bf/196.html,Hampshire,GU513LA,0125281269,GU51,E14000844,30450.0,51.280883,-0.8415040000000001,Con
+117,117,Formby,https://www.waitrose.com//content/waitrose/en/bf_home/bf/749.html,Merseyside,L374AJ,0170487301,L37,E14000916,25586.0,53.555466,-3.058383,Lab
+118,118,Four Oaks,https://www.waitrose.com//content/waitrose/en/bf_home/bf/150.html,WestMidlands,B744AB,0121308600,B74,E14000985,23245.0,52.587639,-1.8317729999999999,Con
+119,119,Frimley,https://www.waitrose.com//content/waitrose/en/bf_home/bf/652.html,Surrey,GU167JD,012762747,GU16,E14000983,26312.0,51.314419,-0.744138,Con
+120,120,Fulham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/681.html,London,SW61LX,0207385456,SW6,E14000629,11123.0,51.480312,-0.19950199999999998,Con
+121,121,Fulham Palace Road,http://www.waitrose.com/content/waitrose/en/bf_home/bf/530.html,London,W68QX,0207381675,W6,E14000726,23651.0,51.484188,-0.21954200000000001,Lab
+122,122,Gerrards Cross,http://www.waitrose.com/content/waitrose/en/bf_home/bf/459.html,Buckinghamshire,SL98ES,0175388844,SL9,E14000550,30252.0,51.588217,-0.551109,Con
+123,123,Gillingham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/105.html,Dorset,SP84UA,0174782620,SP8,E14000839,16816.0,51.035823,-2.2759139999999998,Con
+124,124,Gloucester Road,https://www.waitrose.com//content/waitrose/en/bf_home/bf/230.html,London,SW74SF,0207370242,SW7,E14000768,22658.0,51.494519,-0.183082,Lab
+125,125,Godalming,http://www.waitrose.com/content/waitrose/en/bf_home/bf/216.html,Surrey,GU71HY,0148341816,GU7,E14000953,28417.0,51.186415999999994,-0.60946,Con
+126,126,Goldsworth Park,https://www.waitrose.com//content/waitrose/en/bf_home/bf/181.html,Surrey,GU213LG,0148372575,GU21,E14001047,29882.0,51.318796,-0.590697,Con
+127,127,Gosport,https://www.waitrose.com//content/waitrose/en/bf_home/bf/152.html,Hampshire,PO121SD,0239251126,PO12,E14000713,12543.0,50.792626,-1.135492,Con
+128,128,Great Malvern,https://www.waitrose.com//content/waitrose/en/bf_home/bf/237.html,Worcestershire,WR144WR,0168456000,WR14,E14001035,23306.0,52.112595,-2.3284290000000003,Con
+129,129,Green Street Green,https://www.waitrose.com//content/waitrose/en/bf_home/bf/165.html,Kent,BR66BG,0168985309,BR6,E14000872,29432.0,51.354366,0.089996,Con
+130,130,Greenwich,http://www.waitrose.com/content/waitrose/en/bf_home/bf/740.html.html,Greenwich,SE109DD,0208293959,SE10,E14000718,7159.0,51.48217,-0.014331,Lab
+131,131,Guildford,https://www.waitrose.com//bf_home/bf/589.html,Surrey,GU14QG,0148345396,GU1,E14000719,20606.0,51.238948,-0.57462,Con
+132,132,Guildford - Worplesdon Road,https://www.waitrose.com//bf_home/bf/808.html,Surrey,GU29UY,0148345988,GU2,E14000719,24138.0,51.256982,-0.5942689999999999,Con
+133,133,Hailsham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/653.html,EastSussex,BN271BE,0132384670,BN27,E14001023,10776.0,50.864077,0.260073,Con
+134,134,Hall Green,https://www.waitrose.com//content/waitrose/en/bf_home/bf/122.html,WestMidlands,B289EF,0121778425,B28,E14000562,12741.0,52.428899,-1.8421869999999998,Lab
+135,135,Hampton,http://www.waitrose.com/content/waitrose/en/bf_home/bf/612.html,Surrey,TW122HQ,0208979736,TW12,E14001005,11950.0,51.415603000000004,-0.373641,LD
+136,136,Harborne,https://www.waitrose.com//content/waitrose/en/bf_home/bf/796.html,WestMidlands,B179PP,0121428404,B17,E14000560,23292.0,52.458591000000006,-1.94908,Lab
+137,137,Harpenden,https://www.waitrose.com//content/waitrose/en/bf_home/bf/183.html,Hertfordshire,AL52TJ,0158276516,AL5,E14000749,30560.0,51.815684999999995,-0.357144,Con
+138,138,Harrogate,https://www.waitrose.com//content/waitrose/en/bf_home/bf/684.html,NorthYorkshire,HG11HD,0142350133,HG1,E14000730,27353.0,53.989854,-1.536241,Con
+139,139,Harrow Weald,https://www.waitrose.com//content/waitrose/en/bf_home/bf/143.html,Middlesex,HA36HF,0208861391,HA3,E14000731,22752.0,51.605340000000005,-0.339606,Con
+140,140,Haslemere,https://www.waitrose.com//content/waitrose/en/bf_home/bf/478.html,Surrey,GU272AB,0142864472,GU27,E14000953,29440.0,51.089048,-0.710321,Con
+141,141,Havant,https://www.waitrose.com//content/waitrose/en/bf_home/bf/171.html,Hampshire,PO91PR,0239245123,PO9,E14000736,10643.0,50.851832,-0.9812129999999999,Con
+142,142,Hawkhurst,https://www.waitrose.com//bf_home/bf/529.html,Kent,TN184JB,0158075284,TN18,E14001004,27004.0,51.046997,0.51149,Con
+143,143,Haywards Heath,https://www.waitrose.com//bf_home/bf/873.html,HaywardsHeath,RH163DP,0144444125,RH16,E14000817,27153.0,51.004323,-0.104236,Con
+144,144,Hazlemere,https://www.waitrose.com//bf_home/bf/584.html,Buckinghamshire,HP157LG,0149471685,HP15,E14001056,31887.0,51.651732,-0.713128,Con
+145,145,Headington,https://www.waitrose.com//content/waitrose/en/bf_home/bf/479.html,Oxford,OX39HP,0186530880,OX3,E14000873,27156.0,51.761394,-1.2111120000000002,Lab
+146,146,Headington - London Road,https://www.waitrose.com//bf_home/bf/806.html,Oxfordshire,OX37RD,0186575029,OX3,E14000873,27156.0,51.759531,-1.213994,Lab
+147,147,Heathfield,https://www.waitrose.com//bf_home/bf/595.html,EastSussex,TN218DF,0143586796,TN21,E14000557,31016.0,50.968052,0.253409,Con
+148,148,Helensburgh,http://www.waitrose.com/content/waitrose/en/bf_home/bf/771.html,Argyll&amp;Bute,G847LA,0143667553,G84,S14000005,5335.0,55.995091,-4.701032,SNP
+149,149,Henley-on-Thames,https://www.waitrose.com//content/waitrose/en/bf_home/bf/214.html,Oxfordshire,RG92BA,0149141044,RG9,E14000742,29126.0,51.538565999999996,-0.9050229999999999,Con
+150,150,Hereford,https://www.waitrose.com//bf_home/bf/507.html,Hereford,HR49HX,0143234384,HR4,E14000743,6982.0,52.058084,-2.718925,Con
+151,151,Hersham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/765.html,Surrey,KT124HL,0193224479,KT12,E14000697,27688.0,51.365218,-0.3991,Con
+152,152,Hexham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/782.html,Northumberland,NE463PJ,0143460039,NE46,E14000746,29649.0,54.972753000000004,-2.098948,Con
+153,153,High Holborn,http://www.waitrose.com/content/waitrose/en/bf_home/bf/601.html,London,WC1V7EX,0207831355,WC1V,E14000750,16853.0,51.517425,-0.11878,Lab
+154,154,High Wycombe ,https://www.waitrose.com//bf_home/bf/607.html,Buckinghamshire,HP111TJ,0149444165,HP11,E14001056,29966.0,51.615115,-0.760498,Con
+155,155,Highbury Corner,http://www.waitrose.com/content/waitrose/en/bf_home/bf/637.html,Islington,N51RD,0207609659,N5,E14000763,14033.0,51.546706,-0.103742,Lab
+156,156,Hitchin,https://www.waitrose.com//content/waitrose/en/bf_home/bf/685.html,Hertfordshire,SG51HF,0146242339,SG5,E14000749,25817.0,51.950465,-0.283031,Con
+157,157,Holloway Road,https://www.waitrose.com//content/waitrose/en/bf_home/bf/112.html,London,N76PA,0207700371,N7,E14000763,5216.0,51.555805,-0.11598599999999999,Lab
+158,158,Holsworthy,https://www.waitrose.com//content/waitrose/en/bf_home/bf/480.html,Devon,EX226AZ,0140925546,EX22,E14001000,10889.0,50.808587,-4.352821,Con
+159,159,Horley,https://www.waitrose.com//content/waitrose/en/bf_home/bf/233.html,Surrey,RH67PZ,0129382000,RH6,E14000681,23203.0,51.171298,-0.16275699999999999,Con
+160,160,Horsham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/580.html,WestSussex,RH121AJ,0140327531,RH12,E14000753,16655.0,51.061713,-0.335413,Con
+161,161,Hove,https://www.waitrose.com//content/waitrose/en/bf_home/bf/605.html,Sussex,BN37BZ,0127332990,BN3,E14000755,24743.0,50.842482000000004,-0.177022,Lab
+162,162,Hythe (Kent),https://www.waitrose.com//content/waitrose/en/bf_home/bf/654.html,Kent,CT215NH,0130323031,CT21,E14000704,16303.0,51.071992,1.088941,Con
+163,163,Ipswich,http://www.waitrose.com/content/waitrose/en/bf_home/bf/632.html,Ipswich,IP39SQ,0147371982,IP3,E14000761,10447.0,52.034026000000004,1.201301,Lab
+164,164,Ipswich- Corn Exchange,http://www.waitrose.com/content/waitrose/en/bf_home/bf/743.html,Ipswich,IP11AS,0147325183,IP1,E14000761,4217.0,52.057472,1.152467,Lab
+165,165,Islington,https://www.waitrose.com//content/waitrose/en/bf_home/bf/780.html,London,N10RW,0207278220,N1,E14000764,10363.0,51.533778000000005,-0.10712200000000001,Lab
+166,166,Jesmond,http://www.waitrose.com/content/waitrose/en/bf_home/bf/520.html,TyneandWear,NE22AN,0191281002,NE2,E14000832,27274.0,54.991659999999996,-1.604258,Lab
+167,167,John Barnes,https://www.waitrose.com//content/waitrose/en/bf_home/bf/174.html,London,NW36NN,0207624045,NW3,E14000727,12885.0,51.546563,-0.179884,Lab
+168,168,Kenilworth,https://www.waitrose.com//content/waitrose/en/bf_home/bf/460.html,Warwickshire,CV81JP,0192685846,CV8,E14000767,29302.0,52.34151,-1.575817,Con
+169,169,Kensington,https://www.waitrose.com//content/waitrose/en/bf_home/bf/678.html,London,W86SA,0207795660,W8,E14000768,21071.0,51.4992,-0.19725,Lab
+170,170,Kensington Gardens,https://www.waitrose.com//bf_home/bf/535.html,London,W23HJ,0207262371,W2,E14001036,9747.0,51.510789,-0.183227,Lab
+171,171,Keynsham,https://www.waitrose.com//bf_home/bf/557.html,Bristol,BS311ST,0117986663,BS31,E14000846,23332.0,51.420935,-2.4818689999999997,Con
+172,172,Kings Cross,https://www.waitrose.com//bf_home/bf/590.html,London,N1C4BZ,0207372533,N1C,E14000750,2502.0,51.536153000000006,-0.12346199999999999,Lab
+173,173,Kings Cross Station,https://www.waitrose.com//bf_home/bf/619.html,London,N1C4AP,0207278247,N1C,E14000750,2502.0,51.532379999999996,-0.123297,Lab
+174,174,Kings Hill,http://www.waitrose.com/content/waitrose/en/bf_home/bf/744.html,Kent,ME194QJ,0173287147,ME19,E14000997,31792.0,51.272298,0.40328,Con
+175,175,Kings Road,https://www.waitrose.com//content/waitrose/en/bf_home/bf/173.html,London,SW35XP,0207351277,SW3,E14000629,24363.0,51.488424,-0.16699,Con
+176,176,Kingsthorpe,http://www.waitrose.com/content/waitrose/en/bf_home/bf/148.html,Northamptonshire,NN27BD,0160479143,NN2,E14000861,19906.0,52.262586,-0.901201,Con
+177,177,Kingston,http://www.waitrose.com/content/waitrose/en/bf_home/bf/195.html,Surrey,KT11TG,0208547345,KT1,E14000770,19276.0,51.411811,-0.304637,LD
+178,178,Knightsbridge,http://www.waitrose.com/content/waitrose/en/bf_home/bf/641.html,London,SW31JE,0207589359,SW3,E14000639,14816.0,51.499069,-0.165165,Con
+179,179,Knutsford,http://www.waitrose.com/content/waitrose/en/bf_home/bf/326.html,Knutsford,WA166BU,0156575585,WA16,E14000987,22644.0,53.304069999999996,-2.375307,Con
+180,180,Leatherhead,https://www.waitrose.com//bf_home/bf/859.html,Surrey,KT228DW,0137237385,KT22,E14000824,23541.0,51.294523999999996,-0.32924200000000003,Con
+181,181,Leigh On Sea,https://www.waitrose.com//content/waitrose/en/bf_home/bf/481.html,Essex,SS93JQ,0170248387,SS9,E14000957,14924.0,51.548584000000005,0.655101,Con
+182,182,Leighton Buzzard,https://www.waitrose.com//content/waitrose/en/bf_home/bf/154.html,Bedfordshire,LU71DH,0152537833,LU7,E14000949,10975.0,51.916754,-0.6635439999999999,Con
+183,183,Lewes,https://www.waitrose.com//content/waitrose/en/bf_home/bf/727.html,EastSussex,BN72LP,0127348628,BN7,E14000786,20684.0,50.874435,0.014421999999999999,Con
+184,184,Lichfield,https://www.waitrose.com//content/waitrose/en/bf_home/bf/699.html,Staffordshire,WS136RX,0154341908,WS13,E14000791,26553.0,52.673624,-1.8421720000000001,Con
+185,185,Lincoln,https://www.waitrose.com//content/waitrose/en/bf_home/bf/694.html,Lincolnshire,LN24DS,0152251050,LN2,E14000792,4895.0,53.251326,-0.520806,Lab
+186,186,Locks Heath,https://www.waitrose.com//bf_home/bf/563.html,Hampshire,SO316DX,0148957869,SO31,E14000699,31994.0,50.863576,-1.27498,Con
+187,187,Longfield,https://www.waitrose.com//content/waitrose/en/bf_home/bf/109.html,Kent,DA37QA,0147470893,DA3,E14000659,23275.0,51.396371,0.300735,Con
+188,188,Lutterworth,https://www.waitrose.com//content/waitrose/en/bf_home/bf/487.html,Leicestershire,LE174NF,0145555792,LE17,E14000940,23244.0,52.458760999999996,-1.1991379999999998,Con
+189,189,Lymington,https://www.waitrose.com//content/waitrose/en/bf_home/bf/798.html,Hampshire,SO419GF,0159067194,SO41,E14000828,31064.0,50.757146,-1.5495809999999999,Con
+190,190,Maidenhead,https://www.waitrose.com//content/waitrose/en/bf_home/bf/194.html,Berkshire,SL68AF,0162877712,SL6,E14000803,15138.0,51.523131,-0.714723,Con
+191,191,Malmesbury,https://www.waitrose.com/bf_home/bf/511.html,Malmesbury,SN169FS,0166682502,SN16,E14000860,30409.0,51.58096,-2.09269,Con
+192,192,"Manchester, Spinningfields",https://www.waitrose.com//bf_home/bf/558.html,Manchester,M33BN,0161833160,M3,E14000807,12041.0,53.48069399999999,-2.249115,Lab
+193,193,Manchester Piccadilly,https://www.waitrose.com//bf_home/bf/636.html,Manchester,M12GH,0161237339,M1,E14000807,7660.0,53.47839200000001,-2.2317139999999998,Lab
+194,194,Market Harborough,http://www.waitrose.com/content/waitrose/en/bf_home/bf/728.html,Leicestershire,LE168BD,0185846915,LE16,E14000728,28698.0,52.475466000000004,-0.915974,Con
+195,195,Marlborough,https://www.waitrose.com//content/waitrose/en/bf_home/bf/164.html,Wiltshire,SN81AA,0167251333,SN8,E14000665,22778.0,51.420942,-1.729931,Con
+196,196,Marlow,http://www.waitrose.com/content/waitrose/en/bf_home/bf/465.html,Buckinghamshire,SL71DD,0162848346,SL7,E14000550,26953.0,51.573352,-0.775079,Con
+197,197,Marylebone,https://www.waitrose.com//content/waitrose/en/bf_home/bf/236.html,London,W1U4SD,0207935478,W1U,E14000639,18584.0,51.519519,-0.152077,Con
+198,198,Meanwood,https://www.waitrose.com//content/waitrose/en/bf_home/bf/828.html,Yorkshire,LS64RJ,0113220096,LS6,E14000779,19780.0,53.828315,-1.56782,Lab
+199,199,Melksham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/319.html,Wiltshire,SN126LP,0122570929,SN12,E14000635,5872.0,51.375545,-2.138789,Con
+200,200,Menai Bridge,https://www.waitrose.com//content/waitrose/en/bf_home/bf/318.html,Anglesey,LL595EA,0124871294,LL59,W07000041,1634.0,53.223915000000005,-4.166358,Lab
+201,201,Mill Hill,https://www.waitrose.com//content/waitrose/en/bf_home/bf/670.html,London,NW71GU,0208371824,NW7,E14000741,8397.0,51.607255,-0.209031,Con
+202,202,Milngavie,https://www.waitrose.com//content/waitrose/en/bf_home/bf/630.html,Glasgow,G626JP,0141956330,G62,S14000018,6777.0,55.93269,-4.31608,LD
+203,203,Milton Keynes,https://www.waitrose.com//content/waitrose/en/bf_home/bf/752.html,Buckinghamshire,MK109SU,0190823056,MK10,E14000821,28875.0,52.038647999999995,-0.714295,Con
+204,204,Monmouth,https://www.waitrose.com//content/waitrose/en/bf_home/bf/217.html,Monmouthshire,NP253EQ,0160077255,NP25,W07000054,1550.0,51.809944,-2.718624,Con
+205,205,Monument,http://www.waitrose.com/content/waitrose/en/bf_home/bf/773.html,London,EC4R9AN,0207283172,EC4R,E14000639,20497.0,51.509974,-0.086735,Con
+206,206,Morningside,https://www.waitrose.com//content/waitrose/en/bf_home/bf/761.html,Scotland,EH104AX,0131447689,EH10,S14000024,6849.0,55.929444,-3.209309,Lab
+207,207,Mountsorrel,https://www.waitrose.com//bf_home/bf/403.html,Loughborough,LE127TZ,0150941530,LE12,E14000797,18738.0,52.735693000000005,-1.151878,Con
+208,208,Muswell Hill,http://www.waitrose.com/content/waitrose/en/bf_home/bf/639.html,London,N101DJ,0208883197,N10,E14000752,19488.0,51.591643,-0.142442,Lab
+209,209,Nailsea,https://www.waitrose.com//content/waitrose/en/bf_home/bf/515.html,Avon,BS481AP,0127581200,BS48,E14000850,18946.0,51.433521,-2.7580150000000003,Con
+210,210,New Malden,https://www.waitrose.com//content/waitrose/en/bf_home/bf/131.html,Surrey,KT34HE,0208942898,KT3,E14000770,26422.0,51.402339000000005,-0.256083,LD
+211,211,Newark,https://www.waitrose.com//content/waitrose/en/bf_home/bf/227.html,Nottinghamshire,NG241FF,0163664040,NG24,E14000829,3858.0,53.079896,-0.81216,Con
+212,212,Newbury,https://www.waitrose.com//content/waitrose/en/bf_home/bf/676.html,Berkshire,RG141NB,0163555206,RG14,E14000830,18274.0,51.407117,-1.329292,Con
+213,213,Newmarket,https://www.waitrose.com//content/waitrose/en/bf_home/bf/674.html,Suffolk,CB88NY,0163856172,CB8,E14001034,7601.0,52.246868,0.408142,Con
+214,214,Newport,https://www.waitrose.com//content/waitrose/en/bf_home/bf/687.html,Shropshire,TF107DL,0195281136,TF10,E14000992,15184.0,52.76912900000001,-2.373918,Con
+215,215,Newton Mearns,http://www.waitrose.com/content/waitrose/en/bf_home/bf/327.html,EastRenfrewshire,G776GW,0141616314,G77,S14000021,5719.0,55.783207,-4.349241,Con
+216,216,North Walsham,http://www.waitrose.com/content/waitrose/en/bf_home/bf/622.html,Walsham,NR280NB,0169250310,NR28,E14000848,12988.0,52.827186,1.368243,LD
+217,217,Northwich,https://www.waitrose.com//bf_home/bf/759.html,Cheshire,CW95HD,0160633312,CW9,E14001024,4073.0,53.258811,-2.515085,Lab
+218,218,Northwood,https://www.waitrose.com//content/waitrose/en/bf_home/bf/186.html,Middlesex,HA62XW,0192382051,HA6,E14000906,25320.0,51.611233,-0.423317,Con
+219,219,Norwich,https://www.waitrose.com//content/waitrose/en/bf_home/bf/222.html,Norwich,NR46NU,0160345811,NR4,E14000864,21804.0,52.6079,1.251195,Lab
+220,220,Notting Hill Gate,https://www.waitrose.com//bf_home/bf/644.html,London,W113QG,0207221974,W11,E14000768,20289.0,51.508796000000004,-0.199821,Lab
+221,221,Nottingham - Trinity Square,http://www.waitrose.com/content/waitrose/en/bf_home/bf/833.html,Nottinghamshire,NG14AF,0115941928,NG1,E14000865,7257.0,52.955884999999995,-1.1489,Lab
+222,222,Oadby,https://www.waitrose.com//content/waitrose/en/bf_home/bf/847.html,Leicestershire,LE24LA,0116272080,LE2,E14000728,19586.0,52.60021,-1.081307,Con
+223,223,Oakgrove-Milton Keynes,http://www.waitrose.com/content/waitrose/en/bf_home/bf/752.html.html,Buckinghamshire,MK109SU,0190823056,MK10,E14000821,28875.0,52.038647999999995,-0.714295,Con
+224,224,Okehampton,https://www.waitrose.com//content/waitrose/en/bf_home/bf/234.html,Devon,EX201WL,0183765900,EX20,E14000623,12824.0,50.740446,-4.004084,Con
+225,225,Old Brompton Road,https://www.waitrose.com//content/waitrose/en/bf_home/bf/583.html,London,SW73RD,0207581576,SW7,E14000768,22658.0,51.491976,-0.17916400000000002,Lab
+226,226,Otley,https://www.waitrose.com//content/waitrose/en/bf_home/bf/691.html,WestYorkshire,LS213AS,0194346846,LS21,E14000780,21543.0,53.904926,-1.696192,Lab
+227,227,Oundle,https://www.waitrose.com//bf_home/bf/758.html,Northamptonshire,PE84BZ,0183227469,PE8,E14000648,30870.0,52.483121999999995,-0.46485699999999996,Con
+228,228,Oxford Botley Road,https://www.waitrose.com//bf_home/bf/581.html,Oxfordshire,OX20HH,0186520204,OX2,E14000874,18650.0,51.75267,-1.27938,LD
+229,229,Oxford Street - JL Foodhall,https://www.waitrose.com//content/waitrose/en/bf_home/bf/456.html,London,W1A1EX,0203073050,W1A,E14000764,8742.0,51.524565,-0.112042,Lab
+230,230,Oxted,http://www.waitrose.com/content/waitrose/en/bf_home/bf/838.html,Surrey,RH80QE,0188371574,RH8,E14000681,27500.0,51.258378,-0.004629,Con
+231,231,Paddock Wood,https://www.waitrose.com//content/waitrose/en/bf_home/bf/655.html,Kent,TN126EX,0189283664,TN12,E14001004,20740.0,51.179877000000005,0.393733,Con
+232,232,Parkstone,https://www.waitrose.com//content/waitrose/en/bf_home/bf/766.html,Dorset,BH140AP,0120271805,BH14,E14000881,17185.0,50.728747,-1.939931,Con
+233,233,Parsons Green,http://www.waitrose.com/content/waitrose/en/bf_home/bf/516.html,London,SW64TH,0207731542,SW6,E14000629,18255.0,51.474314,-0.20125099999999999,Con
+234,234,Petersfield,https://www.waitrose.com//content/waitrose/en/bf_home/bf/209.html,Hampshire,GU323JA,0173023333,GU32,E14000680,24707.0,51.004364,-0.936701,Con
+235,235,Petts Wood,https://www.waitrose.com//bf_home/bf/568.html,Kent,BR51EA,0168987303,BR5,E14000872,31348.0,51.386631,0.075412,Con
+236,236,Pimlico,https://www.waitrose.com//bf_home/bf/614.html,London,SW1V1QT,0207828511,SW1V,E14000639,16965.0,51.492549,-0.139468,Con
+237,237,Ponteland,https://www.waitrose.com//content/waitrose/en/bf_home/bf/482.html,Northumberland,NE209NH,0166182390,NE20,E14000746,29667.0,55.049668000000004,-1.742564,Con
+238,238,Pontprennau (Cardiff),https://www.waitrose.com//content/waitrose/en/bf_home/bf/457.html,Cardiff,CF238AN,0292073554,CF23,W07000051,1540.0,51.530294,-3.137916,Lab
+239,239,Portishead,https://www.waitrose.com//content/waitrose/en/bf_home/bf/669.html,Bristol,BS207DE,0127584790,BS20,E14000850,24153.0,51.485968,-2.7636119999999997,Con
+240,240,Portman Square,https://www.waitrose.com//bf_home/bf/569.html,LONDON,W1U3AA,0207935280,W1U,E14000639,17566.0,51.51693,-0.15499200000000002,Con
+241,241,Poundbury,http://www.waitrose.com/content/waitrose/en/bf_home/bf/733.html,Dorset,DT13BW,0130525093,DT1,E14001031,21959.0,50.715299,-2.46693,Con
+242,242,Poynton,https://www.waitrose.com//content/waitrose/en/bf_home/bf/312.html,Stockport,SK121RD,0162585803,SK12,E14000802,25903.0,53.34895,-2.119714,Con
+243,243,Putney,https://www.waitrose.com//content/waitrose/en/bf_home/bf/225.html,London,SW151TW,0208246684,SW15,E14000887,21662.0,51.463729,-0.216481,Con
+244,244,Ramsgate,https://www.waitrose.com//content/waitrose/en/bf_home/bf/160.html,Kent,CT119EJ,0184358310,CT11,E14000948,5057.0,51.332671000000005,1.416949,Con
+245,245,Raynes Park,http://www.waitrose.com/content/waitrose/en/bf_home/bf/846.html,London,SW200BS,0208944803,SW20,E14001040,23375.0,51.408986999999996,-0.234012,Con
+246,246,Reading,https://www.waitrose.com//content/waitrose/en/bf_home/bf/218.html,Berkshire,RG306WR,0118942244,RG30,E14000890,7452.0,51.465726000000004,-1.019142,Con
+248,248,Richmond,https://www.waitrose.com//content/waitrose/en/bf_home/bf/188.html,Surrey,TW91AE,0208948628,TW9,E14000896,25856.0,51.462337,-0.301404,Con
+249,249,Rickmansworth,https://www.waitrose.com//content/waitrose/en/bf_home/bf/698.html,Hertfordshire,WD31FX,0192371859,WD3,E14000951,29995.0,51.640703,-0.472249,Con
+250,250,Ringwood,https://www.waitrose.com//content/waitrose/en/bf_home/bf/203.html,Hampshire,BH241AT,0142547772,BH24,E14000828,18045.0,50.847353000000005,-1.7932700000000001,Con
+251,251,Roehampton,https://www.waitrose.com//bf_home/bf/736.html,London,SW154LB,0208785205,SW15,E14000887,8238.0,51.449446,-0.238889,Con
+253,253,Romsey,https://www.waitrose.com//content/waitrose/en/bf_home/bf/671.html,Hampshire,SO518AS,0179452361,SO51,E14000901,29133.0,50.989998,-1.496818,Con
+254,254,Ruislip,https://www.waitrose.com//content/waitrose/en/bf_home/bf/197.html,Middlesex,HA47DS,0189563154,HA4,E14000906,26530.0,51.571358000000004,-0.423038,Con
+255,255,Rushden,https://www.waitrose.com//content/waitrose/en/bf_home/bf/690.html,Northamptonshire,NN106AR,0193335509,NN10,E14001025,26824.0,52.299378999999995,-0.619588,Con
+256,256,Rustington,https://www.waitrose.com//content/waitrose/en/bf_home/bf/596.html,WestSussex,BN162NE,0190377877,BN16,E14001055,23118.0,50.810181,-0.504887,Con
+257,257,Saffron Walden,https://www.waitrose.com//content/waitrose/en/bf_home/bf/135.html,Essex,CB101EH,0179952572,CB10,E14000910,27291.0,52.023028000000004,0.241936,Con
+258,258,Salisbury,https://www.waitrose.com//content/waitrose/en/bf_home/bf/226.html,Wiltshire,SP27TS,0172232942,SP2,E14000912,21545.0,51.07606,-1.801853,Con
+259,259,Saltash,https://www.waitrose.com//content/waitrose/en/bf_home/bf/656.html,Cornwall,PL126LD,0175284906,PL12,E14000938,22102.0,50.421424,-4.23376,Con
+260,260,Sandbach,https://www.waitrose.com//content/waitrose/en/bf_home/bf/680.html,Cheshire,CW114BE,0127076677,CW11,E14000646,9708.0,53.142604000000006,-2.363342,Con
+261,261,Sanderstead,https://www.waitrose.com//content/waitrose/en/bf_home/bf/677.html,Surrey,CR29LE,0208916075,CR2,E14000656,29022.0,51.332353999999995,-0.075478,Con
+262,262,Sandhurst,https://www.waitrose.com//content/waitrose/en/bf_home/bf/799.html,Berkshire,GU470PU,012763882,GU47,E14000586,30375.0,51.341128999999995,-0.7783680000000001,Con
+263,263,Saxmundham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/483.html,Suffolk,IP171EP,0172860300,IP17,E14000981,18836.0,52.21333,1.4931459999999999,Con
+264,264,Sevenoaks,https://www.waitrose.com//content/waitrose/en/bf_home/bf/464.html,Kent,TN131XA,0173245335,TN13,E14000918,30029.0,51.271679999999996,0.192936,Con
+265,265,Sheffield,https://www.waitrose.com//content/waitrose/en/bf_home/bf/695.html,SouthYorkshire,S118HY,0114272202,S11,E14000919,929.0,53.372999,-1.477041,Lab
+266,266,Sherborne,https://www.waitrose.com//bf_home/bf/604.html,Dorset,DT93BA,0193538949,DT9,E14001031,26279.0,50.947537,-2.515432,Con
+267,267,Shrewsbury,http://www.waitrose.com/content/waitrose/en/bf_home/bf/525.html,Shrewsbury,SY11DP,0174328922,SY1,E14000926,13694.0,52.708698999999996,-2.752666,Con
+268,268,Sidcup,https://www.waitrose.com//bf_home/bf/643.html,Kent,DA146EN,0208309572,DA14,E14000869,22343.0,51.42544,0.104958,Con
+269,269,Sidmouth,https://www.waitrose.com//content/waitrose/en/bf_home/bf/657.html,Devon,EX109GA,0139551941,EX10,E14000678,16080.0,50.700078000000005,-3.244277,Con
+270,270,Solihull,https://www.waitrose.com//bf_home/bf/642.html,WestMidlands,B913QG,0121704045,B91,E14000931,25506.0,52.413806,-1.784027,Con
+271,271,South Bank Tower,https://www.waitrose.com//bf_home/bf/703.html,London,SE19LS,0207928067,SE1,E14000553,13066.0,51.507394,-0.10675799999999999,Lab
+272,272,South Harrow,https://www.waitrose.com//content/waitrose/en/bf_home/bf/219.html,Middlesex,HA20EG,0208423195,HA2,E14000732,15002.0,51.567669,-0.352161,Lab
+273,273,South Woodford,https://www.waitrose.com//content/waitrose/en/bf_home/bf/231.html,London,E182NA,0208989002,E18,E14000634,23430.0,51.595316,0.022465,Con
+274,274,Southampton,https://www.waitrose.com//content/waitrose/en/bf_home/bf/720.html,Hampshire,SO172FX,0238067989,SO17,E14000956,12910.0,50.923808,-1.395022,Lab
+275,275,Southampton - John Lewis,https://www.waitrose.com//bf_home/bf/815.html,Hampshire,SO151QA,0238021640,SO15,E14000955,6247.0,50.904423,-1.4077600000000001,Con
+276,276,Southend-on-Sea,http://www.waitrose.com/content/waitrose/en/bf_home/bf/213.html,Essex,SS24DQ,0170260340,SS2,E14000899,11688.0,51.555868,0.724546,Con
+277,277,Southsea,http://www.waitrose.com/content/waitrose/en/bf_home/bf/170.html,Hampshire,PO52EJ,0239287358,PO5,E14000884,10892.0,50.785882,-1.087027,Lab
+278,278,St Albans,https://www.waitrose.com//content/waitrose/en/bf_home/bf/166.html,Hertfordshire,AL34JZ,0172783111,AL3,E14000960,31500.0,51.746431,-0.360512,Con
+280,280,St Ives,https://www.waitrose.com//content/waitrose/en/bf_home/bf/108.html,Cambridgeshire,PE275BW,0148049294,PE27,E14000757,21167.0,52.322643,-0.068892,Con
+281,281,St Katharine Docks,https://www.waitrose.com//content/waitrose/en/bf_home/bf/753.html,London,E1W1YY,0207702164,E1W,E14000882,23630.0,51.507298,-0.067249,Lab
+282,282,St Neots,https://www.waitrose.com//content/waitrose/en/bf_home/bf/185.html,Cambridgeshire,PE192BH,0148047337,PE19,E14000757,14897.0,52.228551,-0.27195,Con
+284,284,Stamford,https://www.waitrose.com//content/waitrose/en/bf_home/bf/484.html,Lincolnshire,PE92PR,0178075913,PE9,E14000714,20188.0,52.651649,-0.485526,Con
+285,285,Stevenage,https://www.waitrose.com//content/waitrose/en/bf_home/bf/167.html,Hertfordshire,SG13EH,0143835433,SG1,E14000968,12763.0,51.911158,-0.20851999999999998,Con
+286,286,Stirling,http://www.waitrose.com/content/waitrose/en/bf_home/bf/620.html,STIRLING,FK77GX,0178646402,FK7,S14000057,1689.0,56.11385500000001,-3.93347,Con
+287,287,Storrington,https://www.waitrose.com//content/waitrose/en/bf_home/bf/317.html,WestSussex,RH204NQ,0190374121,RH20,E14000534,13784.0,50.918172999999996,-0.451977,Con
+288,288,Stourbridge,https://www.waitrose.com//content/waitrose/en/bf_home/bf/155.html,WestMidlands,DY81HJ,0138437820,DY8,E14000976,9974.0,52.455954000000006,-2.146537,Con
+289,289,Stratford City,http://www.waitrose.com/content/waitrose/en/bf_home/bf/328.html,London,E201EH,0208534398,E20,E14001032,7511.0,51.543594,-0.006639,Lab
+290,290,Stratford-upon-Avon,http://www.waitrose.com/content/waitrose/en/bf_home/bf/708.html,Warwickshire,CV378LU,0178926346,CV37,E14000977,26811.0,52.179477,-1.6985990000000002,Con
+291,291,Stroud,https://www.waitrose.com//content/waitrose/en/bf_home/bf/210.html,Gloucestershire,GL52AP,0145375706,GL5,E14000980,12917.0,51.741374,-2.212701,Lab
+292,292,Sudbury,https://www.waitrose.com//content/waitrose/en/bf_home/bf/658.html,Suffolk,CO102SS,0178788037,CO10,E14000946,9723.0,52.036891,0.731648,Con
+293,293,Sunningdale,https://www.waitrose.com//content/waitrose/en/bf_home/bf/190.html,Berkshire,SL50HD,0134487277,SL5,E14001042,31737.0,51.391595,-0.63364,Con
+294,294,Surbiton,https://www.waitrose.com//content/waitrose/en/bf_home/bf/232.html,Surrey,KT64QR,0208399402,KT6,E14000770,13080.0,51.393716999999995,-0.304573,LD
+295,295,Swaffham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/686.html,Norfolk,PE377HT,0176033630,PE37,E14000952,5462.0,52.655715,0.683974,Con
+296,296,Swindon,https://www.waitrose.com//bf_home/bf/504.html,Swindon,SN17BX,0179387427,SN1,E14000947,18090.0,51.544828,-1.8071380000000001,Con
+297,297,Teignmouth,https://www.waitrose.com//bf_home/bf/554.html,Devon,TQ148HR,0162677251,TQ14,E14000835,5053.0,50.546827,-3.49516,Con
+298,298,Temple Fortune,http://www.waitrose.com/content/waitrose/en/bf_home/bf/125.html,London,NW110QS,0208458664,NW11,E14000703,16409.0,51.583059999999996,-0.199908,Con
+299,299,Tenterden,http://www.waitrose.com/content/waitrose/en/bf_home/bf/201.html,Kent,TN306BW,0158076516,TN30,E14000536,15735.0,51.068343,0.688643,Con
+300,300,Thame,http://www.waitrose.com/content/waitrose/en/bf_home/bf/206.html,Oxfordshire,OX93ZD,0184426036,OX9,E14000742,31034.0,51.749019,-0.9776809999999999,Con
+301,301,Thatcham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/659.html,Berkshire,RG193HN,0163586811,RG19,E14000830,19426.0,51.402759,-1.256786,Con
+302,302,Tonbridge,https://www.waitrose.com//content/waitrose/en/bf_home/bf/667.html,Kent,TN91RG,0173235896,TN9,E14000997,21581.0,51.194257,0.276223,Con
+303,303,Torquay,https://www.waitrose.com//content/waitrose/en/bf_home/bf/485.html,Devon,TQ13HL,0180332913,TQ1,E14000999,5855.0,50.476812,-3.528001,Con
+304,304,Towcester,https://www.waitrose.com//content/waitrose/en/bf_home/bf/682.html,Northants,NN126HZ,0132735499,NN12,E14000942,28963.0,52.13021,-0.9891629999999999,Con
+305,305,Truro,https://www.waitrose.com//bf_home/bf/648.html,Cornwall,TR11RH,0187222586,TR1,E14001003,17671.0,50.272557,-5.036674,Con
+306,306,Tubbs Hill,https://www.waitrose.com//bf_home/bf/739.html,Kent,TN131DH,0173246529,TN13,E14000918,32306.0,51.276485,0.183644,Con
+307,307,Twickenham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/660.html,Middlesex,TW13RJ,0208891442,TW1,E14001005,24813.0,51.448298,-0.328809,LD
+308,308,Twyford,https://www.waitrose.com//content/waitrose/en/bf_home/bf/238.html,Berkshire,RG109EH,0118934464,RG10,E14000803,32567.0,51.477872999999995,-0.866374,Con
+309,309,Uckfield,http://www.waitrose.com/content/waitrose/en/bf_home/bf/506.html,EastSussex,TN221PU,0182576322,TN22,E14001023,20925.0,50.969322999999996,0.096163,Con
+310,310,Upminster,https://www.waitrose.com//content/waitrose/en/bf_home/bf/486.html,Essex,RM143BT,0170822444,RM14,E14000751,27462.0,51.556179,0.252052,Con
+311,311,Uttoxeter,https://www.waitrose.com//bf_home/bf/599.html,Staffordshire,ST148AQ,0188956576,ST14,E14000610,22374.0,52.89623,-1.863363,Con
+312,312,Vauxhall,http://www.waitrose.com/content/waitrose/en/bf_home/bf/789.html,London,SW81SJ,0207091089,SW8,E14001008,8545.0,51.484859,-0.12411099999999999,Lab
+313,313,Victoria Street,http://www.waitrose.com/content/waitrose/en/bf_home/bf/783.html,London,SW1E6QP,0207821885,SW1E,E14000639,16929.0,51.497552,-0.137377,Con
+314,314,Victoria - Bressenden Place,https://www.waitrose.com//bf_home/bf/860.html,London,SW1E5DH,0207834661,SW1E,E14000639,16929.0,51.498149,-0.142601,Con
+315,315,Walbrook,https://www.waitrose.com//bf_home/bf/573.html,London,EC4N8AF,0207929481,EC4N,E14000639,20497.0,51.512153999999995,-0.090177,Con
+316,316,Wallingford,http://www.waitrose.com/content/waitrose/en/bf_home/bf/675.html,Oxfordshire,OX100EF,0149183203,OX10,E14001015,19458.0,51.600722,-1.125362,Con
+317,317,Walton-le-Dale,http://www.waitrose.com/content/waitrose/en/bf_home/bf/721.html,Lancashire,PR54AW,0177288606,PR5,E14000894,22393.0,53.74881,-2.679119,Con
+318,318,Wandsworth,http://www.waitrose.com/content/waitrose/en/bf_home/bf/673.html,London,SW184TG,0208870493,SW18,E14000887,8274.0,51.455133000000004,-0.194179,Con
+319,319,Wantage,http://www.waitrose.com/content/waitrose/en/bf_home/bf/153.html,Oxfordshire,OX128BD,0123577231,OX12,E14001015,22366.0,51.588840999999995,-1.424919,Con
+320,320,Warminster,http://www.waitrose.com/content/waitrose/en/bf_home/bf/701.html,Wiltshire,BA129BR,0198584844,BA12,E14000954,16226.0,51.205281,-2.1777450000000003,Con
+321,321,Waterlooville,http://www.waitrose.com/content/waitrose/en/bf_home/bf/239.html,Hampshire,PO77HS,0239223201,PO7,E14000811,12954.0,50.879355,-1.0304209999999998,Con
+322,322,Watford - John Lewis,https://www.waitrose.com//bf_home/bf/781.html,Hertfordshire,WD172TW,01923287906-5106/5456/588,WD17,E14001021,5005.0,51.654612,-0.392278,Con
+323,323,Wellington,http://www.waitrose.com/content/waitrose/en/bf_home/bf/315.html,Somerset,TA218RD,0182366357,TA21,E14000988,11674.0,50.979791999999996,-3.225686,Con
+324,324,Wells,http://www.waitrose.com/content/waitrose/en/bf_home/bf/729.html.html,Wells,BA52PJ,0174967257,BA5,E14001026,16592.0,51.209474,-2.650273,Con
+325,325,Welwyn Garden City,http://www.waitrose.com/content/waitrose/en/bf_home/bf/204.html,Hertfordshire,AL86AB,0170737340,AL8,E14001027,19031.0,51.803595,-0.204346,Con
+326,326,West Byfleet,http://www.waitrose.com/content/waitrose/en/bf_home/bf/189.html,Surrey,KT146NE,0193235102,KT14,E14001047,26737.0,51.33871,-0.506062,Con
+327,327,West Ealing,http://www.waitrose.com/content/waitrose/en/bf_home/bf/764.html,London,W130NL,0208579099,W13,E14000676,3997.0,51.513117,-0.32197800000000004,Lab
+328,328,West Hampstead,https://www.waitrose.com//bf_home/bf/524.html,London,NW61RN,0207794236,NW6,E14000727,24914.0,51.55151,-0.19278399999999998,Lab
+329,329,West Kensington,https://www.waitrose.com//bf_home/bf/587.html,London,W149PP,0203080017,W14,E14000726,14328.0,51.488602,-0.20525500000000002,Lab
+330,330,Westbury Park,http://www.waitrose.com/content/waitrose/en/bf_home/bf/151.html,Bristol,BS94HN,0117962424,BS9,E14000600,28352.0,51.480589,-2.612402,Lab
+331,331,Westfield London (White City),https://www.waitrose.com//content/waitrose/en/bf_home/bf/462.html,London,W127GA,0208749120,W12,E14000726,5543.0,51.508055,-0.22364699999999998,Lab
+332,332,Weston Super Mare,https://www.waitrose.com//content/waitrose/en/bf_home/bf/309.html,Somerset,BS233UZ,0193441680,BS23,E14001038,7201.0,51.341378000000006,-2.958139,Con
+333,333,Weybridge,https://www.waitrose.com//content/waitrose/en/bf_home/bf/157.html,Surrey,KT138BL,0193285807,KT13,E14000907,29143.0,51.373618,-0.456875,Con
+334,334,Whetstone,https://www.waitrose.com//content/waitrose/en/bf_home/bf/124.html,London,N209HX,0208446032,N20,E14000636,16103.0,51.631259,-0.175629,Con
+335,335,Willerby,https://www.waitrose.com//content/waitrose/en/bf_home/bf/697.html,ERidingYorkshire,HU106EB,0148265526,HU10,E14000724,31532.0,53.764038,-0.45523900000000006,Con
+336,336,Wilmslow,https://www.waitrose.com//content/waitrose/en/bf_home/bf/711.html,Cheshire,SK91AY,0162553883,SK9,E14000987,29234.0,53.328421999999996,-2.229443,Con
+337,337,Wimbledon,http://www.waitrose.com/content/waitrose/en/bf_home/bf/314.html,Wimbledon,SW197JY,0208947961,SW19,E14001040,27596.0,51.42478,-0.202204,Con
+338,338,Wimbledon Hill,http://www.waitrose.com/content/waitrose/en/bf_home/bf/528.html,Wimbledon,SW197NS,0208947555,SW19,E14001040,30517.0,51.421003000000006,-0.20751999999999998,Con
+339,339,Wimborne,https://www.waitrose.com//content/waitrose/en/bf_home/bf/805.html,Dorset,BH211AN,0120284015,BH21,E14000815,29671.0,50.800216,-1.98248,Con
+340,340,Winchester,https://www.waitrose.com//content/waitrose/en/bf_home/bf/463.html,Hampshire,SO226EL,0196286854,SO22,E14001041,17042.0,51.074249,-1.336797,Con
+341,341,Winchmore Hill,https://www.waitrose.com//bf_home/bf/878.html,London,N212QP,0208360337,N21,E14000692,30341.0,51.635326,-0.093169,Lab
+342,342,Windsor,https://www.waitrose.com//content/waitrose/en/bf_home/bf/772.html,Berkshire,SL41TG,0175386056,SL4,E14001042,24271.0,51.482208,-0.610614,Con
+343,343,Winton,https://www.waitrose.com//content/waitrose/en/bf_home/bf/161.html,Dorset,BH92AD,0120252220,BH9,E14000585,14223.0,50.740705,-1.8790470000000001,Con
+344,344,Witney,https://www.waitrose.com//content/waitrose/en/bf_home/bf/142.html,Oxfordshire,OX286AR,0199377841,OX28,E14001046,21151.0,51.784817,-1.4834479999999999,Con
+345,345,Wokingham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/221.html,Berkshire,RG401BB,0118977169,RG40,E14001048,31056.0,51.411668,-0.8335879999999999,Con
+346,346,Wollaton,https://www.waitrose.com//bf_home/bf/591.html,Nottingham,NG82DH,0115985505,NG8,E14000867,27316.0,52.955965,-1.229522,Lab
+347,347,Wolverhampton,https://www.waitrose.com//content/waitrose/en/bf_home/bf/696.html,Wolverhampton,WV24NJ,0190242011,WV2,E14001050,10678.0,52.574227,-2.132816,Lab
+348,348,Woodley,https://www.waitrose.com//content/waitrose/en/bf_home/bf/180.html,Berkshire,RG53JW,0118969043,RG5,E14000889,26945.0,51.451809000000004,-0.905502,Lab
+349,349,Wootton,https://www.waitrose.com//bf_home/bf/726.html,Northamptonshire,NN46HP,0160470844,NN4,E14000942,26650.0,52.210308000000005,-0.8923049999999999,Con
+350,350,Worcester,https://www.waitrose.com//bf_home/bf/700.html,Worcestershire,WR52JG,0190535207,WR5,E14001052,24607.0,52.182355,-2.194486,Con
+351,351,Worcester Park,https://www.waitrose.com//content/waitrose/en/bf_home/bf/661.html,Surrey,KT48DX,0208330758,KT4,E14000984,25619.0,51.378196,-0.24356,Con
+352,352,Worthing,https://www.waitrose.com//content/waitrose/en/bf_home/bf/689.html,Sussex,BN111LL,0190323022,BN11,E14001055,7751.0,50.813757,-0.367748,Con
+353,353,Wymondham,https://www.waitrose.com//content/waitrose/en/bf_home/bf/662.html,Norfolk,NR180SH,0195360777,NR18,E14000816,26560.0,52.575198,1.123725,Con
+354,354,Yateley,https://www.waitrose.com//content/waitrose/en/bf_home/bf/198.html,Hampshire,GU466FR,0125286188,GU46,E14000844,32168.0,51.338895,-0.846275,Con
+355,355,York,https://www.waitrose.com//content/waitrose/en/bf_home/bf/311.html,York,YO317UL,0190465356,YO31,E14001061,6357.0,53.956725,-1.0698459999999999,Lab
